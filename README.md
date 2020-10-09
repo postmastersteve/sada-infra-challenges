@@ -8,6 +8,7 @@ This repository makes use of **submodules**, so if you check out the repo be sur
 
 ```
 git clone https://github.com/postmastersteve/sada-infra-challenges.git
+cd sada-infra-challenges
 git submodule init
 git submodule update
 ```
