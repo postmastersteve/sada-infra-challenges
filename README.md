@@ -1,6 +1,6 @@
 # SADA Infra Challenges
 
-See [https://gitlab.com/-/snippets/2011945](https://gitlab.com/-/snippets/2011945 "infra challenges | bob bae sada"}
+See [https://gitlab.com/-/snippets/2011945](https://gitlab.com/-/snippets/2011945 "infra challenges | bob bae sada")
 
 ## [Challenge 2: Read file and create files and sort](https://gitlab.com/-/snippets/2011945#challenge-2-read-file-and-create-files-and-sort)
 
