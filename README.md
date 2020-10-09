@@ -4,10 +4,12 @@ See [https://gitlab.com/-/snippets/2011945](https://gitlab.com/-/snippets/201194
 
 ## Installation
 
-This repository makes use of **submodules**, so if you check out the repo be sure to initialize submodules with `git submodule init` such as like this:
+This repository makes use of **submodules**, so if you check out the repo be sure to initialize submodules with `git submodule init` and then use `git submodule update` to fetch their contents, such as like this:
 
 ```
-git clone https://github.com/postmastersteve/sada-infra-challenges.git && git submodule init
+git clone https://github.com/postmastersteve/sada-infra-challenges.git
+git submodule init
+git submodule update
 ```
 
 ## [Challenge 2: Read file and create files and sort](https://gitlab.com/-/snippets/2011945#challenge-2-read-file-and-create-files-and-sort)
