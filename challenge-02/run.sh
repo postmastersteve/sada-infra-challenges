@@ -4,8 +4,8 @@
 
 clear;
 
-source="./data/loomings.txt"
-target="./data/loomings-clean.txt"
+source="../data/loomings.txt"
+target="./out/loomings-clean.txt"
 out_dir="./out"
 
 printf "\n\n"
@@ -83,7 +83,7 @@ printf "Deduped file exported to:\n  \e[1;35m%s\e[m" \
 printf "\n\n\n\e[4m\e[33m\
 6b) Perform diff loomings*txt and produce output.\e[m\e[m\n\n"
 printf "\e[1;36m%s\e[m%s\e[m" \
-  "$(diff --text ./data/loomings*.txt)"
+  "$(diff --text ../data/loomings*txt ./out/loomings*txt)"
 
 
 printf "\n\n\nFinished!\nThanks for your consideration --Steve Post\n\n"
