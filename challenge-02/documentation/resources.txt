@@ -1,0 +1,15 @@
+awk command:
+http://linuxcommand.org/lc3_adv_awk.php
+https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Howawk-ward/Howawk-ward.html#//apple_ref/doc/uid/TP40004268-TP40003518-SW10
+
+hashing many files:
+https://codereview.stackexchange.com/questions/163800/create-individual-files-via-bash-with-md5-hashes-of-all-files-in-a-directory-rec
+
+deduping file contents:
+https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux
+
+cleaning file empty lines:
+https://www.baeldung.com/linux/remove-blank-lines-from-file
+
+shell styling:
+https://misc.flogisoft.com/bash/tip_colors_and_formatting
