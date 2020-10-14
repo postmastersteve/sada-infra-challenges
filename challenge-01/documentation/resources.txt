@@ -1,0 +1,5 @@
+convert subnet mask hex to dot-decimal:
+https://stackoverflow.com/questions/47746535/bash-how-do-i-convert-a-hex-subnet-mask-into-bit-form-or-the-dot-decimal-addres
+
+calculate IP address start from subnet mask:
+https://stackoverflow.com/questions/15429420/given-the-ip-and-netmask-how-can-i-calculate-the-network-address-using-bash
