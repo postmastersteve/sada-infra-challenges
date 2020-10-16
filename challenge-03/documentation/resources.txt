@@ -1,0 +1,6 @@
+system information commands:
+https://www.2daygeek.com/bash-shell-script-view-linux-system-information/
+creating json format in shell:
+https://stackoverflow.com/a/48470187
+get used memory (macOS):
+https://superuser.com/a/391027
